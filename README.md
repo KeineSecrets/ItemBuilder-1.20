@@ -3,7 +3,7 @@
 
 # Implementation
 > To implement the ItemBuilder, you have to add the following code in Maven/Gradle:
-> ## Maven
+## Maven
 ```
 <dependency>
   <groupId>dev.mzcy</groupId>
