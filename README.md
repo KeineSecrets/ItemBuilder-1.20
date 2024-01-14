@@ -10,7 +10,7 @@ repositories {
   maven { url 'https://jitpack.io' }
 }
 dependencies {
-  implementation 'com.github.KeineSecrets:ItemBuilder-1.20:-SNAPSHOT'
+  implementation 'com.github.KeineSecrets:ItemBuilder-1.20:1.0.0'
 }
 ```
 ## Maven
@@ -24,6 +24,6 @@ dependencies {
 <dependency>
   <groupId>com.github.KeineSecrets</groupId>
   <artifactId>ItemBuilder-1.20</artifactId>
-  <version>-SNAPSHOT</version>
+  <version>1.0.0</version>
 </dependency>
 ```
